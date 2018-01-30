@@ -14,7 +14,7 @@ gulp.task('testLess', function() {
       .pipe(less())
       .pipe(gulp.dest(DEST))
       .pipe(minifycss())
-      .pipe(rename({ extname: '.min.js' }))
+      .pipe(rename({ extname: '.min.css' }))
       .pipe(gulp.dest(DEST));
 })
 
