@@ -1,4 +1,4 @@
-# cssKit
+# csskit-less
 一套移动端的样式拓展工具包
 
 ## 安装
