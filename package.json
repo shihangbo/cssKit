@@ -1,9 +1,11 @@
 {
   "name": "csskit-less",
-  "version": "1.1.2",
+  "version": "1.1.4",
   "description": "一套移动端的样式拓展工具包",
   "main": "index.js",
   "scripts": {
+    "gulp": "gulp",
+    "publish": "npm publish",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
