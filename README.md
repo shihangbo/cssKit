@@ -1,5 +1,5 @@
 # csskit-less
-一套移动端的样式拓展工具包
+A mobile terminal style development kit
 
 ## 安装
 ```shell
